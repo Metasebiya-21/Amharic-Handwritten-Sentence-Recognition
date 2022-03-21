@@ -1,0 +1,1 @@
+# Amharic-Handwritten-Sentence-Recognition
